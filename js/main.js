@@ -31,7 +31,6 @@ return false;
 /*-------------------JQUERY VIDEO---------------------*/
 
 //jQuery is required to run this code
-/*
 $( document ).ready(function() {
 
     scaleVideoContainer();
@@ -94,5 +93,5 @@ function scaleBannerVideoSize(element){
 
     });
 }
-*/
+
 
